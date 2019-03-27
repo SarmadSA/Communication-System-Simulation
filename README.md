@@ -8,3 +8,7 @@ Encoding and decoding algorithmes used in this project:
 1. Self made encoder/decoder
 2. Hamming encoder/decoder
 3. BCH encoder/decoder
+
+<br/>
+<br/>
+**Be aware** : This project was completed in few hours, mistakes, bad code, misleading file names and function names may be present. 
