@@ -6,5 +6,5 @@ The objective of this project was to simulate a communication system and use it 
 
 Encoding and decoding algorithmes used in this project:
 1. Self made encode/decoder
-2. Hamming-code encoder/decoder
-3. BCH code encoder/decoder
+2. Hamming encoder/decoder
+3. BCH encoder/decoder
